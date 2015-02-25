@@ -1,0 +1,11 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  sbg: Shimran George
+  nr: Nathan Rohde
+
+  email:
+  prefix: pair
+  domain
+  # no_solo_prefix: true
+#global: true
